@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840269233346",
+    "firebase_url": "https://androiddb-11217.firebaseio.com",
+    "project_id": "androiddb-11217",
+    "storage_bucket": "androiddb-11217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840269233346:android:208f8b3215eaefc65e8f5b",
+        "android_client_info": {
+          "package_name": "com.ecorp.fastercar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840269233346-344eljrirf3jn2fahojlrbp8vimm1mbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecorp.fastercar",
+            "certificate_hash": "b86d25f2591225e3313f05f746e6669b42450a11"
+          }
+        },
+        {
+          "client_id": "840269233346-bg552bidhgugjd59edaaqd6l3b778m1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWaN9a5YOLtlFzEEf4P2LiQUyTmJMlcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840269233346-bg552bidhgugjd59edaaqd6l3b778m1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
