@@ -1,5 +1,5 @@
 # Fastercar
-## Android Studio 3.5.3 & Latest gradle
+## Android Studio 3.5.3 & Gradle 5.4.1 or latest
 
 ### Instal firebase plug-in 
 File -> Setting -> Plugin -> Search(Firebase) -> instal Firebase App Indexing
