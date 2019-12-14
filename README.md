@@ -4,8 +4,15 @@
 ### Instal firebase plug-in 
 File -> Setting -> Plugin -> Search(Firebase) -> instal Firebase App Indexing
 
-## Dependencies
+### How To Active Firebase
 ```
+- Tools -> Firebase 
+- Authentication -> Connect your app to firebase -> just click connect 
+```
+
+### Dependencies
+```
+
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
